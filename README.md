@@ -33,4 +33,4 @@ First, clone the project repository to your local machine:
 ```bash
 git clone https://github.com/Emrishye/single-page-cv.git
 
-page URL: [https://emrishye.github.io/single-page-cv/](https://github.com/emrishye/single-page-cv)
+page URL:(https://github.com/emrishye/single-page-cv)

@@ -1,36 +1,50 @@
-# Emran Abdurahman - Junior Frontend Developer Portfolio
+# Emran Abdurahman - Junior Frontend Developer
 
-Welcome to the personal portfolio of **Emran Abdurahman**, a Junior Frontend Developer. This portfolio highlights my skills, education, and experience in web development, with a focus on building responsive and engaging websites using HTML, CSS, JavaScript, and React.
+Welcome to my portfolio! Here you can find my projects, skills, and experience as a Junior Frontend Developer.
 
-## Table of Contents
+## Live Demo
 
-- [Project Overview](#project-overview)
-- [Technologies Used](#technologies-used)
-- [Installation Instructions](#installation-instructions)
-- [Running the Project](#running-the-project)
-- [Project Page](#project-page)
-- [Contact Information](#contact-information)
-- [Social Links](#social-links)
+You can view my portfolio live at the following URL:
 
-## Project Overview
+[Live Portfolio](https://emrishye.github.io/single-page-cv/)
 
-This project is a personal portfolio that showcases my skills, education, and professional experience as a Junior Frontend Developer. It features a clean and responsive design that adjusts to different screen sizes, ensuring an optimal user experience on both desktop and mobile devices.
+## Skills
 
-## Technologies Used
+- HTML, CSS, JavaScript
+- Responsive Design
+- React
+- Accessibility
+- Figma to Design
+- Technical Writing and Presentation
 
-- **HTML**: Structuring content and web page layout.
-- **CSS**: Styling, including responsive design using Flexbox and Grid.
-- **JavaScript**: Implementing interactive behavior (if applicable).
-- **Favicon**: Custom website icon.
+## Education
 
-## Installation Instructions
+- **BSc in Computer Engineering** - Hawassa University, Hawassa, Ethiopia (Sep 2016 - Jul 2021)
 
-To run this project locally, follow these simple steps:
+## Experience
 
-### 1. Clone the repository
-First, clone the project repository to your local machine:
+- Built responsive websites using HTML, CSS, and JavaScript.
+- Created dynamic components with React.
+- Participated in code reviews to maintain high-quality code.
 
-```bash
-git clone https://github.com/Emrishye/single-page-cv.git
+## Projects
 
-page URL:(https://github.com/emrishye/single-page-cv)
+### 1. Library Management System (Java)
+A library management system built using Java for managing books, members, and staff.
+
+### 2. Health Monitoring System (Arduino)
+A health monitoring system using Arduino UNO for real-time health tracking.
+
+### 3. 3D Printing System
+A 3D printing system designed for prototyping and model printing.
+
+## Contact Information
+
+- Email: [abdue@gmail.com](mailto:abdue@gmail.com)
+- Location: Addis Ababa, Ethiopia
+
+## GitHub
+
+You can check out my code repositories on GitHub:
+
+- [GitHub Profile](https://github.com/Emrishye)

@@ -6,7 +6,7 @@ Welcome to my portfolio! This is a single-page CV highlighting my skills, projec
 
 You can view my portfolio live on GitHub Pages:
 
-[Live Portfolio](https://emrishye.github.io/single-page-cv/)
+[single-page-cv](https://emrishye.github.io/single-page-cv/)
 
 ## Project Overview
 

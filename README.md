@@ -1,50 +1,41 @@
-# Emran Abdurahman - Junior Frontend Developer
+# Emran Abdurahman - Junior Frontend Developer Portfolio
 
-Welcome to my portfolio! Here you can find my projects, skills, and experience as a Junior Frontend Developer.
+Welcome to my portfolio! This is a single-page CV highlighting my skills, projects, and experience as a Junior Frontend Developer.
 
 ## Live Demo
 
-You can view my portfolio live at the following URL:
+You can view my portfolio live on GitHub Pages:
 
 [Live Portfolio](https://emrishye.github.io/single-page-cv/)
 
-## Skills
+## Project Overview
 
-- HTML, CSS, JavaScript
-- Responsive Design
-- React
-- Accessibility
-- Figma to Design
-- Technical Writing and Presentation
+This portfolio showcases my experience and projects in frontend development using HTML, CSS, and JavaScript, along with responsive design practices.
 
-## Education
+## Table of Contents
 
-- **BSc in Computer Engineering** - Hawassa University, Hawassa, Ethiopia (Sep 2016 - Jul 2021)
+- [Live Demo](#live-demo)
+- [Project Overview](#project-overview)
+- [Getting Started](#getting-started)
+- [Running the Project Locally](#running-the-project-locally)
+- [Skills and Technologies](#skills-and-technologies)
+- [Projects](#projects)
+- [Contact Information](#contact-information)
+- [GitHub](#github)
 
-## Experience
+## Getting Started
 
-- Built responsive websites using HTML, CSS, and JavaScript.
-- Created dynamic components with React.
-- Participated in code reviews to maintain high-quality code.
+These instructions will help you set up and run the project on your local machine for development and testing purposes.
 
-## Projects
+### Prerequisites
 
-### 1. Library Management System (Java)
-A library management system built using Java for managing books, members, and staff.
+Make sure you have the following installed:
 
-### 2. Health Monitoring System (Arduino)
-A health monitoring system using Arduino UNO for real-time health tracking.
+- A modern web browser (Google Chrome, Firefox, etc.)
+- [Git](https://git-scm.com/) (for cloning the repository)
 
-### 3. 3D Printing System
-A 3D printing system designed for prototyping and model printing.
+### Running the Project Locally
 
-## Contact Information
-
-- Email: [abdue@gmail.com](mailto:abdue@gmail.com)
-- Location: Addis Ababa, Ethiopia
-
-## GitHub
-
-You can check out my code repositories on GitHub:
-
-- [GitHub Profile](https://github.com/Emrishye)
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/emrishye/single-page-cv.git
